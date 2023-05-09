@@ -24,11 +24,20 @@ html {
 }
 footer{
     background-color:darkred;
-    height:230px;
+    height:200px;
 }
 header{
     z-index: 1000;
 }
 .dishCard{
     height: 250px;
+}
+.fa-instagram {
+    color: #833AB4;
+}
+.fa-whatsapp {
+    color: #128C7E;
+}
+.fa-envelope {
+    color: #4285F4;
 }
