@@ -41,3 +41,22 @@ header{
 .fa-envelope {
     color: #4285F4;
 }
+#recipe-list{
+    top: 5rem;
+}
+#recipe-list::-webkit-scrollbar{
+    width: 10px;
+}
+#recipe-list::-webkit-scrollbar-track{
+    background-color: #ffffff;
+}
+.recipe-item:hover{
+    background-color: crimson;
+    border-radius: 10px;
+
+
+}
+
+.recipe-item-hover a{
+    color: #ffffff !important;
+}
